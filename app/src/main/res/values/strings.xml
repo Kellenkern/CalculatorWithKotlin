@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KernCalc</string>
+    <string name="txtNumber">Insira um número</string>
+    <string name="txtNumber2">Insira outro número</string>
+    <string name="clean">Limpar</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="mult">*</string>
+    <string name="title">Calculadora</string>
+    <string name="resul"></string>
+</resources>
